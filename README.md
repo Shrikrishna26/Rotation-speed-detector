@@ -67,6 +67,11 @@ The displayed value corresponds to **rotations per second (RPS)**.
 
 ---
 
+
+# Hardware circuit
+
+![Block Diagram](Rotation_speed_detector_imge.jpg)
+
 ## Methodology Flow
 
 Mechanical Rotation → IR Detection → Comparator → Frequency Divider → Counter → Timing Control → Display
