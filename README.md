@@ -63,7 +63,7 @@ The displayed value corresponds to **rotations per second (RPS)**.
 
 ## Block Diagram
 
-![Block Diagram](images/block-diagram.png)
+![Block Diagram](Schematics.png)
 
 ---
 
